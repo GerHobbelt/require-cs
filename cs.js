@@ -262,7 +262,7 @@ define(['coffee-script'], function (CoffeeScript) {
             }
         },
 
-        version: '0.4.3',
+        version: '0.4.5',
 
         load: function (name, parentRequire, load, config) {
             // preserve existing logic with new literate coffeescript extensions (*.litcoffee or *.coffee.md).
